@@ -1,2 +1,2 @@
-# Micro-services-example
+# Spring Boot Microservices
 Microservie example 
