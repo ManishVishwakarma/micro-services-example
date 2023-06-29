@@ -1,0 +1,10 @@
+com\manish\productservice\dto\ProductResponse.class
+com\manish\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\manish\productservice\dto\ProductRequest.class
+com\manish\productservice\ProductServiceApplication.class
+com\manish\productservice\model\Product.class
+com\manish\productservice\service\ProductService.class
+com\manish\productservice\model\Product$ProductBuilder.class
+com\manish\productservice\repository\ProductRepository.class
+com\manish\productservice\controller\ProductController.class
+com\manish\productservice\dto\ProductResponse$ProductResponseBuilder.class

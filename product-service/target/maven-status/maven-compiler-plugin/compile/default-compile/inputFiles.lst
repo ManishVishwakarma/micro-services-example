@@ -1,0 +1,7 @@
+D:\Study\MicroservicesExample\microservice-new\product-service\src\main\java\com\manish\productservice\model\Product.java
+D:\Study\MicroservicesExample\microservice-new\product-service\src\main\java\com\manish\productservice\dto\ProductResponse.java
+D:\Study\MicroservicesExample\microservice-new\product-service\src\main\java\com\manish\productservice\dto\ProductRequest.java
+D:\Study\MicroservicesExample\microservice-new\product-service\src\main\java\com\manish\productservice\service\ProductService.java
+D:\Study\MicroservicesExample\microservice-new\product-service\src\main\java\com\manish\productservice\controller\ProductController.java
+D:\Study\MicroservicesExample\microservice-new\product-service\src\main\java\com\manish\productservice\repository\ProductRepository.java
+D:\Study\MicroservicesExample\microservice-new\product-service\src\main\java\com\manish\productservice\ProductServiceApplication.java

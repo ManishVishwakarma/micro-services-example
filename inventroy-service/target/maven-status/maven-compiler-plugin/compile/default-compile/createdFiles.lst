@@ -1,0 +1,6 @@
+com\manish\inventoryservice\InventoryServiceApplication.class
+com\manish\inventoryservice\service\InventoryService.class
+com\manish\inventoryservice\controller\InventoryController.class
+com\manish\inventoryservice\model\Inventory$InventoryBuilder.class
+com\manish\inventoryservice\model\Inventory.class
+com\manish\inventoryservice\repository\InventoryRepository.class
